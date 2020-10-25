@@ -31,3 +31,8 @@ You need an installation of Python, plus the following libraries:
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+## Screenshots
+![](screenshots/main_page.png)
+
+![](screenshots/message_classification.png)
